@@ -1,2 +1,11 @@
-# Youtube-clone-html-css
-Youtube UI clone built using HTML and CSS focusing on layout and styling. 
+# YouTube Clone (HTML & CSS)
+This is a frontend clone of YouTube built using only HTML and CSS.
+
+## Features
+- Header section
+- Sidebar
+- Video grid layout
+
+## Tech Used
+- HTML
+- CSS
